@@ -1,5 +1,6 @@
 # news_application
-Screenshot_1697650083.png
+![Screenshot_1697650037](https://github.com/Mariam-Emad127/News-application/assets/93050116/16bcacc9-bdea-47a0-a9b3-eed9b8f8ea62)
+![Screenshot_1697650083](https://github.com/Mariam-Emad127/News-application/assets/93050116/2b0fb042-93c3-469e-abe4-03ab4f18c0ac)
 A new Flutter project.
 
 ## Getting Started
