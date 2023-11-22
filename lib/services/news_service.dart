@@ -1,6 +1,4 @@
-
 import 'package:dio/dio.dart';
-
 import '../model/article_model.dart';
 
 class NewsService{
@@ -29,8 +27,7 @@ Future<List<ArticleModel>> GetNews({required String category})async {
      articlesList.add(articleModel);
    }
    return articlesList;
-   //}
-   //);
+  
  } catch(e){
 return [];
  }
