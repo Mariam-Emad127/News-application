@@ -45,32 +45,9 @@ body:  Padding(
       ),
 NewsListViewBuilder(category: "general",),
     ],
-
-
-
-
-
   ),
-)
-//CategoriesListView() ,
-
-//       Column(
-//
-// children: [
-//
-//   Row(children: [
-//   ],
-//
-//   ),
-// Column(),
-// ],
-//
-//       )
-
-
-
-
-    );
+)    
+    ) );
   }
 }
 
