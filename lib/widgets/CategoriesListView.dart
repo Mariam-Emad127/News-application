@@ -7,10 +7,8 @@ import '../CategoryCard.dart';
 class CategoriesListView extends StatelessWidget {
   const CategoriesListView({super.key});
   final  List <CategoryModel>categories=const[
-  //CategoryModel(image: image, categoryName: categoryName),
   CategoryModel(
     image: 'assets/busniss.jpeg',
-    //image: 'assets/business.avif',
     categoryName: 'Business',
   ),
   CategoryModel(
